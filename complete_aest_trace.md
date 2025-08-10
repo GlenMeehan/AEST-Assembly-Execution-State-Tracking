@@ -1,4 +1,4 @@
-# Complete AEST Trace Example: Hello World with Line Feed
+# Complete AEST Trace Example: Hello World with Line Feed (code source from asmtutor.com Lesson 7 - https://asmtutor.com/#lesson2
 
 This is a complete Assembly Execution State Tracking (AEST) trace for the hello world program that uses the `sprintLF` function.
 
