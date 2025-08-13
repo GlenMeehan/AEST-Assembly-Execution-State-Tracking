@@ -2,7 +2,7 @@
 
 ## What is AEST?
 
-Assembly Execution State Tracking (AEST), informally known as the "Glenplate Method," is a systematic approach to manually tracking assembly program execution. It helps learners understand exactly what happens at each instruction by maintaining a detailed state table.
+Assembly Execution State Tracking (AEST) is a systematic approach to manually tracking assembly program execution. It helps learners understand exactly what happens at each instruction by maintaining a detailed state table.
 
 ## Why Use AEST?
 
