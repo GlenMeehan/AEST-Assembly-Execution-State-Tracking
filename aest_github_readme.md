@@ -107,7 +107,7 @@ This educational method and templates are released under MIT License. Use freely
 
 ## About
 
-Created by Glen as a learning tool for assembly language programming. The "Glenplate Method" emerged from the frustration of tracking complex program state during assembly learning.
+Created by me as a tool for assembly language programming. The tool emerged from the frustration of tracking complex program state during assembly learning.
 
 ---
 
