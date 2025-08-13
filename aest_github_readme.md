@@ -1,4 +1,4 @@
-# Assembly Execution State Tracking (AEST) - "Glenplate Method"
+# Assembly Execution State Tracking (AEST)
 
 ## What is AEST?
 
